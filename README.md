@@ -5,7 +5,7 @@ Desde 2014 na **PortalMOL Informática**, onde dou suporte e treinamento a clien
 
 Atualmente aprofundando meus estudos em **C# e programação orientada a objetos**, com projetos de console, aplicações e jogos em Unity.
 
-📍 Capela do Alto – SP · ✉️ paulo.ferrari.mantuaneli@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO)
+📍 Capela do Alto – SP · ✉️ paulo.ferrari.mantuaneli@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/paulo-mantuaneli/)
 
 ---
 
