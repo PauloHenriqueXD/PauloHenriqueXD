@@ -5,7 +5,7 @@ Desde 2014 na **PortalMOL Informática**, onde dou suporte e treinamento a clien
 
 Atualmente aprofundando meus estudos em **C# e programação orientada a objetos**, com projetos de console, aplicações e jogos em Unity.
 
-📍 Capela do Alto – SP · ✉️ paulo.ferrari.mantuaneli@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/paulo-mantuaneli/)
+📍 São Paulo – SP · ✉️ paulo.ferrari.mantuaneli@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/paulo-mantuaneli/)
 
 ---
 
@@ -50,7 +50,7 @@ Também trabalho com relatórios em **Fast Report**, administração de domínio
 ## 🎓 Formação
 
 - **Pós-graduação em Tecnologias e Inovações Web**, SENAC (2019)
-- **Gestão da Tecnologia da Informação**, FATEC Tatuí (2015)
+- **Gestão da Tecnologia da Informação**, FATEC (2015)
 - **Técnico em Informática**, Etec Salles Gomes (2013)
 - **C# Completo: POO + Projetos**, Prof. Dr. Nelio Alves (2025)
 
