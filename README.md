@@ -42,7 +42,7 @@ Também trabalho com relatórios em **Fast Report**, administração de domínio
 |---|---|---|
 | [**Biblion2**](https://github.com/PauloHenriqueXD/Biblion2) | Programa feito para controle de livrarias e bibliotecas | C# |
 | [**HiddenApp**](https://github.com/PauloHenriqueXD/HiddenApp) | Desenvolvido para bloquear internet de qualquer programa e criar macros programaveis | C# |
-| [**Game3D_Unity**](https://github.com/PauloHenriqueXD/Game3D_Unity) | Meu primeiro jogo 3D desenvolvido sozinho em Unity | C# · Unity |
+| [**Game3D_Unity**](https://github.com/PauloHenriqueXD/Game3D_Unity) | Meu primeiro jogo 3D desenvolvido em Unity | C# · Unity |
 | [**xadrez-console**](https://github.com/PauloHenriqueXD/xadrez-console) | Jogo de xadrez no terminal com movimentação das peças, xeque, xeque-mate e jogadas especiais | C# · POO |
 
 ---
